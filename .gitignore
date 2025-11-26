@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large dataset file
+AIML Dataset.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Your video folder (if it contains large files)
+vid/
